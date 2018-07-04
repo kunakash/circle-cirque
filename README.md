@@ -5,3 +5,5 @@
 Headphones recommended
 <br>
 Desktop-only (for now ...)</p>
+
+<p>Site deployment (courtesy of Heroku): https://circle-cirque.herokuapp.com
